@@ -1,0 +1,26 @@
+{
+  "title": "Hardstyle Anthem Toolkit",
+  "study": "hs01",
+  "bpm": 150,
+  "source_audio": "preview/hardstyle-anthem-toolkit-simple-synth-preview.mp3",
+  "source_audio_sha256": "d46839ab5c82ef832c0f9300fadc3149bbb189e6f7338777839917576b94e3e3",
+  "source_midi": "midi/hs01-red-horizon/hs01-red-horizon-combined.mid",
+  "source_midi_sha256": "295ce2a7440153cbf0ef975081fc1ae98aa3e05839d2bdf80e099458ff24800c",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "7b936d4b67a9a65ebd04b9eda899e70ac11d9a4c7b88b63486b931b8d3d51f96",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "3fa66eb36ec2a875b0c31ca44ff52e01b6a23d8bff04c4f43d03d12c21a1f589",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "e442378d168614e65016369ec5f6d9bba4241226825911a12541bc9e93cfc666",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
