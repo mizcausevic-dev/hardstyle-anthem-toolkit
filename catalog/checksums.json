@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 794,
-      "sha256": "a533523c55d7fc22cbc9dd22d750c53c485950d7efbc82a19bc71c1d51e0b0be"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3903,
-      "sha256": "2676ce1bb457c64827d81a2395decdf16b582f480c07adcbdfe38aeeeeda0cb8"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/hardstyle-anthem-toolkit-midi.zip",
-      "bytes": 31844,
-      "sha256": "1a5c7b310cb5357a934637156e7cedff03a820b5932db49e73b906ae7a0a5c9f"
+      "bytes": 34081,
+      "sha256": "7099a3da4c183dfebfff6eca07526527371986bd603991debb0459f0408971da"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 34126,
       "sha256": "54c559afe017b7ca15a396d5dbef8940a8c5cde7e643964cd81d12cc77aacfa2"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1285599,
-      "sha256": "e442378d168614e65016369ec5f6d9bba4241226825911a12541bc9e93cfc666"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9572,
-      "sha256": "069f686fdd818082254cc777d393525d5853eaa624fef25a83929cc309551e29"
+      "bytes": 9762,
+      "sha256": "9bebd98504334f8bc4ef986a0fb111483704ff42cc3ab4eac9243b85ad365561"
     },
     {
       "path": "midi/hs01-red-horizon/chord_pulse.mid",
@@ -402,6 +387,16 @@
       "sha256": "9d6f0b73cc28dc6369dec82fb591a96515f8b7bf6e29a6489d1926a8b64575a1"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 794,
+      "sha256": "a533523c55d7fc22cbc9dd22d750c53c485950d7efbc82a19bc71c1d51e0b0be"
+    },
+    {
       "path": "preview/hardstyle-anthem-toolkit-simple-synth-preview.mp3",
       "bytes": 1242636,
       "sha256": "d46839ab5c82ef832c0f9300fadc3149bbb189e6f7338777839917576b94e3e3"
@@ -410,6 +405,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1135,
       "sha256": "ece037f5808b6af53deab79d8c2cbd2b498e53a83d2c0cace4fabc9d6ba55e72"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4018,
+      "sha256": "103b70b98b710326436d898ff33cc8d8599342174a592bd12fe8f7e167e213ee"
     },
     {
       "path": "social/instagram/caption.txt",
